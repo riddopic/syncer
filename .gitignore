@@ -1,0 +1,13 @@
+*~
+._*
+*.swo
+*.swp
+*.DS_Store
+*.tmproj
+*.bbproject*
+*.gem
+*.rbc
+.bundle
+.config
+pkg
+rdoc
